@@ -28,5 +28,25 @@ A web-based application to manage vehicle service bookings, customer records, an
 3. Start Apache & MySQL
 4. Open `http://localhost/your-folder-name`
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](DASHBOAD.png)
+
+### Login Page
+![Login](LOGIN.png)
+
+### Add Vehicle / Form
+![Form](FORM.png)
+
+### Vehicle List
+![Vehicle List](LISTOFVEHICLE.png)
+
+### Service List
+![Service List](LISTOFSERVICE.png)
+
+### General List View
+![List](LIST.png)
+
 ## 👩‍💻 Author
 Rakshita
