@@ -1,32 +1,49 @@
-# Vehicle Service Management System 🚗
+# 🚗 Vehicle System Management
 
-## 📌 Overview
-A web-based application to manage vehicle service bookings, customer records, and billing efficiently.
+A web-based Vehicle Management System developed using PHP and MySQL.  
+This project helps manage vehicles, service requests, and booking details efficiently through a simple user interface.
 
-## 🚀 Features
-- Book vehicle service appointments
-- Manage customer details
-- Generate billing system
-- Track service requests
-- Admin dashboard for operations
+---
 
-## 🛠️ Technologies Used
-- PHP
-- MySQL
-- HTML, CSS, JavaScript
-- XAMPP (for local server)
+## 📌 Features
 
-## 📂 Project Structure
-- index.php – Main entry
-- config.php – Database configuration
-- send_request.php – Service request handling
-- view_service.php – View bookings
+- 🔐 User Login System  
+- 🚘 Add & Manage Vehicles  
+- 🛠️ Service Request Handling  
+- 📋 View Service Bookings  
+- 📊 Dashboard Overview  
+- 🗂️ Organized Data Management using MySQL  
+
+---
+
+## 🛠️ Tech Stack
+
+- Frontend: HTML, CSS, JavaScript  
+- Backend: PHP  
+- Database: MySQL  
+- Server: XAMPP  
+
+---
+
+## 📁 Project Structure
+
+- `index.php` – Main entry point  
+- `config.php` – Database configuration  
+- `send_request.php` – Handles service requests  
+- `view_service.php` – Displays bookings  
+- `vehicle_service/` – Core project files  
+
+---
 
 ## ⚙️ How to Run
-1. Install XAMPP
-2. Place project folder in `htdocs`
-3. Start Apache & MySQL
-4. Open `http://localhost/your-folder-name`
+
+1. Install XAMPP  
+2. Move project folder to `htdocs`  
+3. Start Apache & MySQL  
+4. Open browser and go to:
+http://localhost/vehicle-system-management
+
+---
 
 ## 📸 Screenshots
 
@@ -39,14 +56,23 @@ A web-based application to manage vehicle service bookings, customer records, an
 ### Add Vehicle / Form
 ![Form](FORM.png)
 
-### Vehicle List
-![Vehicle List](LISTOFVEHICLE.png)
-
 ### Service List
 ![Service List](LISTOFSERVICE.png)
+
+### Vehicle List
+![Vehicle List](LISTOFVEHICLE.png)
 
 ### General List View
 ![List](LIST.png)
 
+---
+
 ## 👩‍💻 Author
+
 Rakshita
+
+---
+
+## ⭐ Notes
+
+This is a beginner-friendly full-stack project demonstrating CRUD operations, database connectivity, and basic system design using PHP.
