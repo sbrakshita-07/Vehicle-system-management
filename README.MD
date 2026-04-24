@@ -18,7 +18,9 @@ This project helps manage vehicles, service requests, and booking details effici
 
 ## 🛠️ Tech Stack
 
-- Frontend: HTML, CSS, JavaScript  
+This project is built using the folling technologies:
+
+- Frontend: HTML, CSS, JavaScript 
 - Backend: PHP  
 - Database: MySQL  
 - Server: XAMPP  
